@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|solutionrelative:main_directory\\Dish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dish.cpp",
+              "DocumentMoniker": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dish.cpp",
+              "RelativeDocumentMoniker": "main_directory\\Dish.cpp",
+              "ToolTip": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dish.cpp",
+              "RelativeToolTip": "main_directory\\Dish.cpp",
+              "ViewState": "AgIAABABAAAAAAAAAAAAwCMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T18:41:02.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
