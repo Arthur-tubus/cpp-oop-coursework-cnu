@@ -14,15 +14,6 @@
 #include "Loader.h"
 using namespace std;
 
-//Абстрактний клас
-class FoodBase {
-public:
-	virtual void printInfo() const = 0;
-	virtual string toFileFormat() const = 0;
-	virtual ~FoodBase() {}
-};
-
-//class Dishes: public FoodBase {};
 
 //Інтерфейс
 class ISearchable {

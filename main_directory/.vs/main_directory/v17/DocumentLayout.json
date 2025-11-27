@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|solutionrelative:main_directory\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Loader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|solutionrelative:main_directory\\Loader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Loader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|solutionrelative:main_directory\\Loader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dishes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|solutionrelative:main_directory\\Dishes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dishes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|solutionrelative:main_directory\\Dishes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Loader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6722C1F-3C21-4D56-BCCF-F9C086D3702E}|main_directory\\main_directory.vcxproj|solutionrelative:main_directory\\Loader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,37 +32,9 @@
               "RelativeDocumentMoniker": "main_directory\\Main.cpp",
               "ToolTip": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Main.cpp",
               "RelativeToolTip": "main_directory\\Main.cpp",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-26T23:17:36.165Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dishes.cpp",
-              "DocumentMoniker": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dishes.cpp",
-              "RelativeDocumentMoniker": "main_directory\\Dishes.cpp",
-              "ToolTip": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dishes.cpp",
-              "RelativeToolTip": "main_directory\\Dishes.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T18:41:02.311Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dishes.h",
-              "DocumentMoniker": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dishes.h",
-              "RelativeDocumentMoniker": "main_directory\\Dishes.h",
-              "ToolTip": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Dishes.h",
-              "RelativeToolTip": "main_directory\\Dishes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-26T23:23:26.867Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -84,26 +48,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Loader.cpp",
               "DocumentMoniker": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Loader.cpp",
               "RelativeDocumentMoniker": "main_directory\\Loader.cpp",
               "ToolTip": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Loader.cpp",
               "RelativeToolTip": "main_directory\\Loader.cpp",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAYwNMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAIwO4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-26T23:37:31.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Loader.h",
               "DocumentMoniker": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Loader.h",
               "RelativeDocumentMoniker": "main_directory\\Loader.h",
               "ToolTip": "C:\\Users\\jonso\\Desktop\\repository\\course work\\cpp-oop-coursework-cnu\\main_directory\\main_directory\\Loader.h",
               "RelativeToolTip": "main_directory\\Loader.h",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-27T10:39:36.776Z",
               "EditorCaption": ""

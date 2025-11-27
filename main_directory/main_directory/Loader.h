@@ -6,6 +6,7 @@
 #include <iostream>
 #include <iomanip>
 
+ 
 #include "Dishes.h"
 using namespace std;
 
@@ -41,6 +42,7 @@ public:
     const list<Dishes>& getDishes() const;
     //set
     void setNames(const string& newName);
+
     //метод
     void Print() const;
     //Виводить інформацію
