@@ -1,0 +1,8 @@
+admin:admin123:1
+manager:qwerty99:1
+jinwoo:arise:0
+satoru:revival:0
+waiter:coffee2026:0
+guest:0000:0
+testuser:password:0
+User:user123:0
