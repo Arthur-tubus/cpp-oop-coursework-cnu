@@ -21,3 +21,10 @@ This repository contains a C++ Object-Oriented Programming coursework project de
    cd build
    cmake ..
    cmake --build .
+   
+### 2. Налаштування ресурсів 
+Після успішної збірки виконайте наступні кроки, щоб програма бачила необхідні дані:
+1. Перейдіть у папку resources у корені проєкту.
+2. Скопіюйте всі файли звідти (menu.csv та accounts.txt).
+3. Перейдіть у папку згенерованого виконуваного файлу: build -> Debug (або build -> Release, залежно від конфігурації).
+4. Вставте скопійовані файли в цю папку (туди, де лежить ваш .exe файл)
